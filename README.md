@@ -11,3 +11,9 @@
 | Project | What it is | Built with |
 |---|---|---|
 | [PC builds and diagnostics](https://github.com/dbalysma/pc-builds) | A HYTE Y70 ML workstation I built in 2026, verified on the machine, with a desktop freeze traced to memory pressure from the system's own logs and a safeguard enabled. Also read-only Linux diagnostic tools with tests and CI, an anonymised client memory upgrade, and a service workflow from enquiry to handover. | Python, Linux, GitHub Actions |
+
+### Undergraduate engineering
+
+| Project | What it is | Built with |
+|---|---|---|
+| [IoT home-security robot](https://github.com/dbalysma/iot-security-robot) | BEng Electromechanical Engineering final-year project at Coventry University (2022–23). A Raspberry Pi robot with PIR motion detection, camera capture, email alerts and attempted ultrasonic obstacle avoidance. The original June 2023 code, recovered and documented with its limits and a dated timeline. | Python, Raspberry Pi, GPIO |
