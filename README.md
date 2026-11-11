@@ -16,4 +16,4 @@
 
 | Project | What it is | Built with |
 |---|---|---|
-| [IoT home-security robot](https://github.com/dbalysma/iot-security-robot) | BEng Electromechanical Engineering final-year project at Coventry University (2022–23). A Raspberry Pi robot with PIR motion detection, camera capture, email alerts and attempted ultrasonic obstacle avoidance. The original June 2023 code, recovered and documented with its limits and a dated timeline. | Python, Raspberry Pi, GPIO |
+| [IoT home-security robot](https://github.com/dbalysma/iot-security-robot) | Autonomous Security project (2022–23). A Raspberry Pi robot with PIR motion detection, camera capture, email alerts and attempted ultrasonic obstacle avoidance. The original June 2023 code, recovered and documented with its limits and a dated timeline. | Python, Raspberry Pi, GPIO |
